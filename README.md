@@ -1,3 +1,3 @@
 # nosql-challenge
 
-Proffessor Abraham gave me an extension. 
+Professor Abraham gave me an extension. 
